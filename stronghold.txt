@@ -1,0 +1,20 @@
+"stronghold"
+{
+	"base"		"base"
+	"title"		"FTS: Stronghold"
+	"maps"		"^sh_"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+		// Just messin
+		1
+		{
+			"name"		"sbox_maxprops"
+			"text"		"max_props"
+			"help"		"Maximum props a single player can create"
+			"type"		"Numeric"
+			"default"	"20"
+		}
+	}
+}
